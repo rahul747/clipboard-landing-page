@@ -74,7 +74,7 @@ main{
 .btn{
     margin: 0em 1em;
     color:#fff;
-    max-width:200px;
+    width:200px;
     border:5px;
     border-radius:50px;
     font-size:1.15rem;
